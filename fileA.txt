@@ -1,0 +1,4 @@
+I am creating this fileA.txt in desola-folder
+This file will be commit to local repository
+-------------------------------------------
+Date:June 6 2024.
